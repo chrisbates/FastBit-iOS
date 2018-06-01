@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/chrisbates/FastBit-iOS'
   s.author = 'Michael Beauregard'
   s.source = { 
-    :git => 'https://github.com/chrisbates/FastBit-iOS'
+    :git => 'git@github.com:chrisbates/FastBit-iOS.git'
   }
   s.license = {
     :type => 'LGPL',
