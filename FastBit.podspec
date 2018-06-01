@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.summary = 'FastBit library for iOS.'
   s.description = 'FastBit data processing library compiled for iOS.'
-  s.homepage = 'https://github.com/RobotsAndPencils/FastBit-iOS'
+  s.homepage = 'https://github.com/chrisbates/FastBit-iOS'
   s.author = 'Michael Beauregard'
   s.source = { 
-    :git => 'git@github.com:RobotsAndPencils/FastBit-iOS.git'
+    :git => 'https://github.com/chrisbates/FastBit-iOS'
   }
   s.license = {
     :type => 'LGPL',
